@@ -1,47 +1,61 @@
 ---
+id: introduction
+title: Introduction to Physical AI & Robotics
+sidebar_label: Introduction
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introduction to Physical AI & Robotics
 
-Let's discover **Docusaurus in less than 5 minutes**.
+The future of work will be a partnership between people, intelligent agents (AI software), and robots. 
+This shift won't necessarily eliminate jobs but will change what humans do, leading to a massive demand for new skills.
 
-## Getting Started
+We have already written a book on AI agents. Therefore, this course teaches Physical AI & Humanoid Robotics. 
 
-Get started by **creating a new site**.
+## Course Overview
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+This course will guide you through:
 
-### What you'll need
+- Understanding the fundamentals of Physical AI.
+- Learning humanoid robotics design and control.
+- Integrating AI agents with physical robots.
+- Hands-on projects and assignments to implement learned concepts.
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## Learning Objectives
 
-## Generate a new site
+By the end of this course, students will be able to:
 
-Generate a new Docusaurus site using the **classic template**.
+1. Describe key concepts of Physical AI and humanoid robotics.
+2. Develop basic AI-driven robotic behaviors.
+3. Interface AI software agents with humanoid robotic systems.
+4. Apply theoretical knowledge in practical projects.
 
-The classic template will automatically be added to your project after you run the command:
+## Course Structure
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+The course is divided into multiple modules:
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+### Module 1: Introduction to Physical AI
+- Basics of AI in the physical world.
+- Differences between software AI and Physical AI.
+- Examples and real-world applications.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+### Module 2: Humanoid Robotics Fundamentals
+- Overview of humanoid robots.
+- Anatomy and mechanics of humanoid robots.
+- Sensors, actuators, and control systems.
 
-## Start your site
+### Module 3: AI & Robotics Integration
+- Connecting AI agents with robots.
+- Programming behaviors and motion.
+- Simulation and testing.
 
-Run the development server:
+### Module 4: Projects and Applications
+- Capstone project: build a simple AI-driven humanoid task.
+- Case studies of advanced robotics applications.
+- Ethics and future directions in AI robotics.
 
-```bash
-cd my-website
-npm run start
-```
+## Conclusion
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+This course prepares students to thrive in the era of AI-driven robotics, 
+equipping them with skills to design, program, and deploy intelligent humanoid systems.
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
